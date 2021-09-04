@@ -5,3 +5,8 @@ tellraw @p {"text":" ","color":"gold"}
 tellraw @p {"text":" ","color":"gold"}
 tellraw @p {"text":" ","color":"gold"}
 tellraw @p {"text":"RPG server spawner datapack","color":"gold"}
+
+# 前提スコアボード
+
+scoreboard objectives add m.timer dummy 
+scoreboard objectives add timer dummy
