@@ -11,6 +11,9 @@
 ***
 
 * 管理者権限 OP
-コマンドで管理するから
+
+> コマンドで管理するから
+
 * armor_stand (tag=system)
-これはここでsocreboardを管理するから
+
+> これはここでsocreboardを管理するから,しかしtagにsystemがあればdataは問わない
