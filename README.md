@@ -16,4 +16,4 @@
 
 * armor_stand (tag=system)
 
-> これはここでsocreboardを管理するから,しかしtagにsystemがあればdataは問わない
+> これはここでscoreboardを管理するから,しかしtagにsystemがあればdataは問わない
